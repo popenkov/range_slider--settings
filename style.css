@@ -1,0 +1,7 @@
+.irs-max {
+  font-size: 0 !important;
+}
+.irs-max::after {
+  content: 'max';
+  font-size: 10px;
+}
